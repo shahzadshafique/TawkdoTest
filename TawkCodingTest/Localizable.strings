@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  TawkCodingTest
+
+  Created by shahzadshafique on 28/10/2022.
+  
+*/
+
+"viewDetail" = "Detail";
+"errorTitle" = "Error!";
+"generalErrorMessage" = "Something went wrong, please try again later.";
+"networkErrorMessage" = "You are currently offline";
+"okButtonTitle" = "OK";
+"retryButtonTitle" = "Retry";
+"saveErrorMessage" = "There was an error while saving, please try again later";
+"saveSuccessMessage" = "saved successfully";
+"following" = "Following";
+"followers" = "Followers";
+"name" = "Name";
+"company" = "Company";
+"location" = "Location";
+"blog" = "Blog";
+"email" = "Email";
+"note" = "Notes";
+"users" = "Users";
+"save" = "Save";
